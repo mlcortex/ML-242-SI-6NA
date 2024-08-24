@@ -1,6 +1,6 @@
 # Machine Learning
 
-Repositório da *turma 6NA* do curso de Sistemas de Informação da UNINASSAU. 
+Repositório da **turma 6NA (noite)** do curso de Sistemas de Informação da UNINASSAU. 
 
 Disciplina: Machine Learning. 
 
