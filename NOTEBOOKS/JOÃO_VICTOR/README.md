@@ -1,0 +1,3 @@
+- João Victor Freire de Souza
+- Ciencia / Analise de dados.
+- Sou aluno de sistemas de informação , atualmente buscando estagio na area de dados sendo essa a principal area que estou focando.
